@@ -1,6 +1,6 @@
 # Irrigation-controller-on-ESP8266-and-SMT-01
 Irrigation controller measures soil moisture and turns on irrigating in a timely manner in sufficient quantity for plant growth.
-RainON analyzes soil parameters by Soil Moisture and Temperature sensor SMT-01. If the soil moisture is below the set limit, the controller turns on irrigating the plants. Plants are irrigating in portions, which ensures an even and economical distribution of moisture in the soil. During irrigating, the controller monitors the state of soil moisture. As soon as the soil moisture reaches the set value, irrigating stops.
+RainON analyzes soil parameters by Soil Moisture and Temperature sensor [SMT-01](https://github.com/greensensors/SMT-Soil-Moisture-Sensor-for-Arduino). If the soil moisture is below the set limit, the controller turns on irrigating the plants. Plants are irrigating in portions, which ensures an even and economical distribution of moisture in the soil. During irrigating, the controller monitors the state of soil moisture. As soon as the soil moisture reaches the set value, irrigating stops.
 
 ![image](https://user-images.githubusercontent.com/77538035/110234558-c891f380-7f33-11eb-8668-9c807c7b3e10.png)
 
