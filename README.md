@@ -6,7 +6,7 @@ RainON analyzes soil parameters by Soil Moisture and Temperature sensor SMT-01. 
 
 The design of RainON is made on the ESP8266-12F and soil moisture and temperature sensor SMT-01 (see
 [Electrical circuit diagram](https://github.com/greensensors/Irrigation-controller-on-ESP8266-and-SMT-01/blob/main/RainON-ESP8266-circuit.JPG) and
-[Open source software](https://github.com/greensensors/Irrigation-controller-on-ESP8266-and-SMT-01/blob/main/RainON-210302.ino).
+[Open source software](https://github.com/greensensors/Irrigation-controller-on-ESP8266-and-SMT-01/blob/main/RainON-210302.ino)).
 
 ## Main technical characteristics
 * Supply voltage: DC 5V
