@@ -22,3 +22,5 @@ Rain ON provides access to parameters by Wi-Fi.
 
 This advantage allows you to monitor the parameters of the controller and manage its settings by smart phone or personal computer. 
 The WEB-page of RainON is intuitive and easy to use.
+
+[RainON on work.](https://github.com/greensensors/Irrigation-controller-on-ESP8266-and-SMT-01/blob/main/RainON-on-work.pdf)
