@@ -18,7 +18,7 @@ The design of RainON is made on the ESP8266-12F and soil moisture and temperatur
 
 Rain ON provides access to parameters by Wi-Fi.
 
-![image](https://user-images.githubusercontent.com/77538035/110235427-8b7c3000-7f38-11eb-82f9-86f571c90120.png)
+![image](https://user-images.githubusercontent.com/77538035/110235517-1826ee00-7f39-11eb-8558-898b23a27bb8.png)
 
 This advantage allows you to monitor the parameters of the controller and manage its settings by smart phone or personal computer. 
 The WEB-page of RainON is intuitive and easy to use.
