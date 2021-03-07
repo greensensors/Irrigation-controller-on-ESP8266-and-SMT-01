@@ -24,3 +24,5 @@ This advantage allows you to monitor the parameters of the controller and manage
 The WEB-page of RainON is intuitive and easy to use.
 
 [RainON on work.](https://github.com/greensensors/Irrigation-controller-on-ESP8266-and-SMT-01/blob/main/RainON-on-work.pdf)
+
+Additional information: greensensorso@gmail.com
